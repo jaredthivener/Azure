@@ -1,5 +1,5 @@
-$rgname = "rg-arrow-logstash-prod-westus"
-$vmssname = "logstashss-vmss"
+$rgname = "prod-westus"
+$vmssname = "test-vmss"
 $Id = 1
 $location = "West US"
 
