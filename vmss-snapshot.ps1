@@ -1,7 +1,7 @@
-$rgname = "prod-westus"
-$vmssname = "test-vmss"
+$rgname = "<rg-name>"
+$vmssname = "<vmss-name>"
 $Id = 1
-$location = "West US"
+$location = "<location>"
 
 $vmss1 = Get-AzVmssVM -ResourceGroupName $rgname -VMScaleSetName $vmssname -InstanceId $Id     
 
