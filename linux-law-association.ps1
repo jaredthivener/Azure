@@ -7,7 +7,7 @@ $Publisher = 'Microsoft.EnterpriseCloud.Monitoring'
 $Version = '1.13'
 
 $PublicConf = '{
-    "workspaceId": "72ed5d97-12b6-4927-9968-26b0938ecc31",
+    "workspaceId": <work-space-Id>,
     "stopOnMultipleConnections": "false"
 }'
 $PrivateConf = '{
