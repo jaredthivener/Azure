@@ -6,3 +6,4 @@ Get started using [Azure PowerShell](https://learn.microsoft.com/en-us/powershel
 YouTube
 - [PowerShell Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFq_hR7FcMYg32xsSAObuq8)
 - [Mastering Azure PowerShell](https://www.udemy.com/course/azure-powershell/)
+- [AZ CLI Overview and Demo Super Show](https://www.youtube.com/watch?v=DOywwse_j8I)
